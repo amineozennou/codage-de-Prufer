@@ -1,5 +1,5 @@
 # codage de Prufer
-Bonjour tout le monde dans mon premier repostiry qui rédigée le codage de pufer dans les arbres qui sont créé avec les graphes avec les listes d'adjacents, L'algorithme de ce codage est le suivant:
+Bonjour tout le monde dans mon premier repository qui rédigée le codage de pufer dans les arbres qui sont créé avec les graphes avec les listes d'adjacents, L'algorithme de ce codage est le suivant:
 ```
 #Pour le codage
 Soit(X,T) un arbre X={1,2,....,n}
