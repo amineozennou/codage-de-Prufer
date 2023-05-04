@@ -10,7 +10,7 @@ TantQue l'arbre a plus d'arête faire
 	Enlever cette feuille
 Fin TantQue
 ```
-# Pour le decodage
+# Pour le décodage
 ```
 TantQue C<>mot vide faire
     relier Fk a x=c[1]
