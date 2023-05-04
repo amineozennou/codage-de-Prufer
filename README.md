@@ -1,6 +1,7 @@
 # codage de Prufer
 Bonjour tout le monde dans mon premier repository qui rédigé le codage de pufer dans les arbres qui sont créés avec les graphes avec les listes d'adjacents, L'algorithme de ce codage est le suivant :
-#Pour le codage
+
+# Pour le codage
 ```
 Soit(X,T) un arbre X={1,2,....,n}
 TantQue l'arbre a plus d'arête faire
@@ -9,7 +10,7 @@ TantQue l'arbre a plus d'arête faire
 	Enlever cette feuille
 Fin TantQue
 ```
-#Pour le decodage
+# Pour le decodage
 ```
 TantQue C<>mot vide faire
     relier Fk a x=c[1]
