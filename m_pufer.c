@@ -18,6 +18,7 @@ int main(){
     scanf("%c",&l);
     remplirG(g,n);
     printf("Le nombre d'arete de graph G est :%d\n",arete(g,n,l));
+    affiche_graph(g,n);
     int beta=ensemble_feuilles(g,f,n);
     printf("F={");
     for(i=1;i<=beta;i++){
